@@ -5,11 +5,11 @@
 - TEAMMORA RUNNING
 
 - GTmetrix
-![](assets/img/gtmetrix-inicial.png)
-![](assets/img/gtmetrix-final.png)
+![](img/gtmetrix-inicial.png)
+![](img/gtmetrix-final.png)
 
 - Google Search Console
-![](assets/img/google-search-console.png)
+![](img/google-search-console.png)
 
 - Sitemap
-![](assets/img/sitemap.png)
+![](img/sitemap.png)
